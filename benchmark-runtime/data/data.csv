@@ -1,0 +1,6 @@
+case,real,user,sys
+echo,3m55.325s,21m45.461s,0m16.459s
+foam,7m5.750s,39m44.593s,0m24.474s
+fexe,9m2.684s,48m35.074s,0m26.804s
+fwrt,9m3.518s,48m30.885s,0m29.005s
+orig,4m0.711s,22m5.480s,0m14.673s

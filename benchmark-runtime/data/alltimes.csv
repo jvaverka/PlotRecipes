@@ -1,0 +1,11 @@
+case,real,user,sys
+echoALL,3m55.325s,21m45.461s,0m16.459s
+foamEND,3m53.191s,22m4.453s,0m17.351s
+foamEXE,7m5.136s,40m24.752s,0m34.638s
+foamEXE_pvbatchEXE,7m44.120s,43m37.686s,0m52.873s
+foamWRITE,7m1.230s,40m5.915s,0m28.828s
+foamWRITE_pvbatchEND,6m43.793s,38m19.528s,0m24.554s
+foamWRITE_pvbatchWRITE,7m14.771s,41m5.722s,0m40.184s
+original,4m0.711s,22m5.480s,0m14.673s
+pvbatchWRITE,4m21.096s,24m33.542s,0m28.703s
+pvpythonWRITE,4m23.844s,24m43.537s,0m28.223s
